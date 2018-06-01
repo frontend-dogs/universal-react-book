@@ -1,4 +1,4 @@
 # Введение
 
-* [Мотивация](motivaciya.md)
+* [Мотивация](motivation.md)
 

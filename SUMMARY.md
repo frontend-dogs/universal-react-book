@@ -1,6 +1,7 @@
 # Table of contents
 
-* [Read Me](README.md)
-* [Введение](introduction/README.md)
+* [Read Me](readme.md)
+* [Введение](introduction/readme.md)
   * [Мотивация](introduction/motivation.md)
-
+* [Webpack](webpack/readme.md)
+  * [Алиасы](webpack/alias.md)

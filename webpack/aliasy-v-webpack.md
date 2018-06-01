@@ -46,12 +46,11 @@ module.exports = {
   },
   // ...
 }
-
 ```
 
 Теперь у нас есть удобный механизм алиасов для директорий.
 
-### Бонус
+## Бонус
 
 Простой способ динамического получения алиасов:
 
@@ -89,3 +88,4 @@ const moreAlias = Object.assign(ourAlias, {
   images: path.resolve(__dirname, '../../../public/images/'),
 })
 ```
+

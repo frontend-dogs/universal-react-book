@@ -4,4 +4,4 @@
 * [Введение](introduction/README.md)
   * [Мотивация](introduction/motication.md)
 * [Webpack](webpack/README.md)
-  * [Алиасы](webpack/alias.md)
+  * [Алиасы в webpack](webpack/alias.md)
